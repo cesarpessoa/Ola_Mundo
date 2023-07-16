@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula do curso de Git e GitHub.
 
- É possível fazer alterações ou anotaçõesremotas no repositório dentro do README.
+ É possível fazer alterações ou anotações remotas no repositório dentro do README.
