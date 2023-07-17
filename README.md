@@ -53,7 +53,17 @@ Obs. Pode ser * ou -
 
       Para marcar como concluída a tarefa é só editar e substituir o espaço por um X
 
+## Imagem e Link
 
 ![rodrigo](https://github.com/cesarpessoa/Ola_Mundo/assets/136215378/ffe4da14-2b28-4c34-91db-1606ad41af0d)
 
 [acesse meu github](https://gustavoguanabara.github.io)
+
+## Tabela 
+
+Num | Nome | Nota
+---|---|---|
+1 | César | 9.0
+2 | Maria| 8.5
+
+
