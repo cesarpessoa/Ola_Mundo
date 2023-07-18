@@ -80,3 +80,6 @@ else:
     print(f'O valor de num é IMPAR')
 ```
 
+## Emojis
+Basta botar dois pontos após o texto 🖖 🤭 🏠
+ ✋🐒 🐒
