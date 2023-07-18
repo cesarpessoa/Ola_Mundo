@@ -83,3 +83,10 @@ else:
 ## Emojis
 Basta botar dois pontos após o texto 🖖 🤭 🏠
  ✋🐒 🐒
+## Observação
+O comando de dois pontos não funciona no titulo da issue para adicionar um emoji, neste caso, 
+devemos copiar o link no site emojipedia e colar no lugar desejado do titulo da issue.
+
+## Citações e Marcar pessoas
+
+Como diria @gustavoguanabara
