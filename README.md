@@ -66,4 +66,17 @@ Num | Nome | Nota
 1 | César | 9.0
 2 | Maria| 8.5
 
+## Comandos - devem ser postos entre crases
+
+Não entendi para que serve o comando: `document.getElementByid{}` da linguagem javaScript
+
+## Trechos de programa deve ser colocado entre 3 crases:
+
+```
+nun = int(input('Digite um número: ')
+if num%2 == 0:
+    print(f'O valor de num é PAR')
+else:
+    print(f'O valor de num é IMPAR')
+```
 
